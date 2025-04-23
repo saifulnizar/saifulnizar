@@ -39,4 +39,4 @@ Currently working on multiple Laravel-based web projects and exploring **Golang 
 ## 💬 Let's Connect
 
 - 📫 Email: saifulrizki0@gmail.com
-- 🌐 Website: [syncify.pro](https://syncify.pro) *(jika ada)*
+- 🌐 Website: [syncify.pro](https://syncify.pro) 
