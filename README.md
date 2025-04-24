@@ -4,7 +4,7 @@ I'm an IT professional with a strong focus on software development and system op
 
 I value clean code, reliable systems, and clear communication. Whether I’m debugging a legacy issue or architecting a new feature, I believe in solving problems with practicality and purpose.
 
-
+## 🛠️ Tech Stack
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
