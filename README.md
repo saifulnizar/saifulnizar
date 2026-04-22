@@ -16,5 +16,5 @@ I value clean code, reliable systems, and clear communication. Whether I’m deb
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ### 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/saifulnizar)
+- [LinkedIn](https://id.linkedin.com/in/rizki-saiful-nizar)
 - [Portfolio](https://saifulnizar.dev)
